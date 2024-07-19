@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Belajar back end",
+      "status": true
+    },
+    {
+      "id": 2,
+      "task": "ngerjain tugas",
+      "status": false
+    },
+    {
+      "id": "c7a4",
+      "task": "anjay",
+      "status": false
+    },
+    {
+      "id": "3fda",
+      "task": "anjay",
+      "status": false
+    }
+  ]
+}
